@@ -1,6 +1,7 @@
 *.out
 *.o
 *.swp
+*.gch
 *.swo
 *.DS_Store
 *.htaccess
